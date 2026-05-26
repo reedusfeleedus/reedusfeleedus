@@ -1,4 +1,4 @@
-## Hi recruiters,
+## Hi stranger 👋, 
 
 I ran into a small dilemma: either keep an ever-growing graveyard of old repositories on my profile (most of which no longer reflect how I think or build), or aggressively clean things up and lose visible evidence of past work.
 
