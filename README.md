@@ -17,12 +17,10 @@ Bizarre? Kind of. But I thought it was fun.
 ---
 
 ### 🔐 Private / archived repositories (doveryai, no proveryai)
-
-1. Okapi Code Tutoring
+1. labelifyAI
+  - Description: "macOS screenshot organization system built with Python & customTkinter. Monitors your filesystem for new screenshots, analyzes their content using OpenAI's GPT-4 vision, and generates contextual filenames."
+  - SHA256: `10f312b87516048d162ae6373a7c337c6d6079d26e2ac67b5aaa359b51684fe2`
+2. Okapi Code Tutoring
   - Description: "Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2025"
   - SHA256: `87910eaea3465eff9f428bacdc4ea97f7c50cf490acb9b816594b11c34b50b27`
     
-2. labelifyAI
-  - Description: "Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
-  - SHA256: `10f312b87516048d162ae6373a7c337c6d6079d26e2ac67b5aaa359b51684fe2`
-
