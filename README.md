@@ -20,4 +20,4 @@ Bizarre? Kind of. But I thought it was fun.
 2. labelifyAI
   - Description: "Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
   - SHA256: `10f312b87516048d162ae6373a7c337c6d6079d26e2ac67b5aaa359b51684fe2`
-- - - 
+
