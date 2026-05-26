@@ -1,4 +1,6 @@
-## Hi stranger 👋, 
+## An experiment in cryptographic portfolio management
+
+That was a mouthful but let me explain.
 
 I ran into a small dilemma: either keep an ever-growing graveyard of old repositories on my profile (most of which no longer reflect how I think or build), or aggressively clean things up and lose visible evidence of past work.
 
@@ -12,7 +14,10 @@ The idea is simple: I can talk about the project, architecture, tradeoffs, mista
 
 Bizarre? Kind of. But I thought it was fun.
 
-- - - 
+---
+
+### 🔐 Private / archived repositories (doveryai, no proveryai)
+
 1. Okapi Code Tutoring
   - Description: "Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2025"
   - SHA256: `87910eaea3465eff9f428bacdc4ea97f7c50cf490acb9b816594b11c34b50b27`
