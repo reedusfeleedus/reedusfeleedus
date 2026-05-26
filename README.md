@@ -14,10 +14,10 @@ Bizarre? Kind of. But I thought it was fun.
 
 - - - 
 1. Okapi Code Tutoring
-  - description: " Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
-  - sha256: `87910eaea3465eff9f428bacdc4ea97f7c50cf490acb9b816594b11c34b50b27`
-- - - 
+  - Description: "Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2025"
+  - SHA256: `87910eaea3465eff9f428bacdc4ea97f7c50cf490acb9b816594b11c34b50b27`
+    
 2. labelifyAI
-  - description: " Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
-  - sha256: `10f312b87516048d162ae6373a7c337c6d6079d26e2ac67b5aaa359b51684fe2`
+  - Description: "Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
+  - SHA256: `10f312b87516048d162ae6373a7c337c6d6079d26e2ac67b5aaa359b51684fe2`
 - - - 
