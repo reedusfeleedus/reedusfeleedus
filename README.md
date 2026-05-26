@@ -13,13 +13,11 @@ The idea is simple: I can talk about the project, architecture, tradeoffs, mista
 Bizarre? Kind of. But I thought it was fun.
 
 - - - 
-1. Okapi Code Tutoring  
-  - commit: `f705ea758c6820ff7eec263e3ba16a28cce7538a`
+1. Okapi Code Tutoring
+  - description: " Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
   - sha256: `87910eaea3465eff9f428bacdc4ea97f7c50cf490acb9b816594b11c34b50b27`
-  - description: " Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
 - - - 
-2. labelifyAI  
-  - commit: `2898f7a9e77f780408e7c80282c18078c9aa2822`
-  - sha256: `10f312b87516048d162ae6373a7c337c6d6079d26e2ac67b5aaa359b51684fe2`
+2. labelifyAI
   - description: " Django-based management system. Includes student matching, lesson scheduling, and administrative tasks. King's College London 2024"
+  - sha256: `10f312b87516048d162ae6373a7c337c6d6079d26e2ac67b5aaa359b51684fe2`
 - - - 
